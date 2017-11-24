@@ -2,3 +2,5 @@
 
 git config --global user.name "huayingxuan"
 git config --global user.email "1121177395@qq.com"
+README.md
+readme.txt
